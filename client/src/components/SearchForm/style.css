@@ -1,0 +1,52 @@
+form.search {
+  overflow: auto;
+  margin-bottom: 10px;
+}
+
+form.search button[type="submit"] {
+  float: right;
+  margin-top: 10px;
+  cursor: pointer;
+  background-image: red;
+  color: yellow;
+  font: bolder black 20px;
+  box-shadow: 10px 10px 10px black;
+
+}
+
+.form-control {
+  background-color: rgba(255, 0, 0, 0.356);
+  width: 300px;
+  height: auto;
+  text-shadow: 5px 5px 5px black;
+  box-shadow: 5px 5px 5px black;
+  border-radius: 10px;
+}
+
+.form-control:hover {
+  cursor: pointer;
+}
+
+.container {
+  width:auto;
+}
+
+.form-group {
+  margin-bottom: 30px;
+  padding-bottom: 50px;
+  color: red;
+  font: bolder 20px;
+  text-shadow: 10px 10px 10px black;
+}
+
+input {
+  width: 100%;
+}
+
+input:hover {
+  cursor: pointer;
+}
+
+#books {
+  color: purple;
+}
